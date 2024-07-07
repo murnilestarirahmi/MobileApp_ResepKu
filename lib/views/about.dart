@@ -51,7 +51,6 @@ class AboutPage extends StatelessWidget {
       ),
     );
   }
-
   Widget _buildTeamMember(String name, String id, String imagePath) {
     return Container(
       padding: const EdgeInsets.all(10.0),

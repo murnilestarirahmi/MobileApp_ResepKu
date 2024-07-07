@@ -55,11 +55,13 @@ This application is licensed under the MIT License. See the [LICENSE](LICENSE) f
 ## Project Thumbnail
 
 <p float="left">
-    <img src="./documentations/resepku.png" alt="resepku" width="250">
+    <img src="./documentations/opening_page.png" alt="opening" width="250">
     &nbsp;&nbsp;
     <img src="./documentations/home_page.png" alt="home_page" width="250">
     &nbsp;&nbsp;
-    <img src="./documentations/add_resep.png" alt="addresep_page" width="250">
+    <img src="./documentations/add_page.png" alt="add_page" width="250">
+    &nbsp;&nbsp;
+    <img src="./documentations/detail_page.png" alt="detail_page" width="250">
     &nbsp;&nbsp;
     <img src="./documentations/delete_page.png" alt="delete_page" width="250">
     &nbsp;&nbsp;

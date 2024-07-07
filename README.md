@@ -1,6 +1,6 @@
 # ResepKu AppMobile
 
-ResepKu adalah aplikasi pencatat resep yang memungkinkan pengguna untuk membuat, mengedit, dan menghapus resep mereka. Aplikasi ini menggunakan penyimpanan lokal Flutter dengan sqflite untuk menyimpan dan mengambil data resep secara lokal di perangkat.
+ResepKu adalah aplikasi pencatat resep yang memungkinkan pengguna untuk membuat, mengedit, dan menghapus resep mereka. Aplikasi ini menggunakan penyimpanan lokal untuk menyimpan dan mengambil data resep secara lokal di perangkat.
 
 ## Features
 

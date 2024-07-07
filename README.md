@@ -34,7 +34,7 @@ ResepKu adalah aplikasi pencatat resep yang memungkinkan pengguna untuk membuat,
 
    ```bash
    git clone https://github.com/MurniLestariRahmi/MobileApp_Resepku.git
-   cd notesappmobile
+   cd resepkumobileapp
    ```
 
 2. **Install Dependencies**
